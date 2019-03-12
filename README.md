@@ -1,9 +1,11 @@
 # Google-Hash-Code-2019
 First try in international coding competition
-#Team Name
+
+# Team Name
 ==========
 C# Warriors
-#Team Members
+
+# Team Members
 ============
 Muhammad Rafay
 Muhammad Aamir
