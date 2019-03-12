@@ -14,3 +14,8 @@ C# Warriors
 * Muhammad Ismail https://www.facebook.com/ismail.vohra.9
 
 * Muhammad Umair Zafar https://www.facebook.com/profile.php?id=100006960435300
+ 
+ # Instruction
+ 
+ The Output file will save in bin -> debug -> output.txt
+ 
