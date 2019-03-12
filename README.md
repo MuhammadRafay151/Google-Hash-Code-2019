@@ -2,11 +2,11 @@
 First try in international coding competition
 
 # Team Name
-==========
+
 C# Warriors
 
 # Team Members
-============
+
 Muhammad Rafay
 Muhammad Aamir
 Muhammad Ismail
