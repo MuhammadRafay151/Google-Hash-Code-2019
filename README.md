@@ -7,7 +7,7 @@ C# Warriors
 
 # Team Members
 
-Muhammad Rafay
-Muhammad Aamir
-Muhammad Ismail
-Muhammad Umair Zafar
+*Muhammad Rafay
+*Muhammad Aamir
+*Muhammad Ismail
+*Muhammad Umair Zafar
